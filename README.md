@@ -42,6 +42,9 @@
 <p>:black_square_button:<a href=""> Sprint 3 </a> - 16/05 à 05/06</p>
 <hr>
 
+<h3>:wrench: Ferramentas & Tecnologias utilizadas</h3>
+<img src=""/>
+<hr>
 
 
 
