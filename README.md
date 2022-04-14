@@ -7,6 +7,17 @@
 
 <h2 align="center">TecSUS</h2>
 <hr>
+<p align="center">
+    <a href ="https://github.com/UniversalDevs/Projeto_API_TecSus/blob/main/README.md#globe_with_meridians-equipe-de-desenvolvedores"> Equipe </a>  •
+    <a href ="https://github.com/FelipeASousa/Felipe/blob/main/README.md#-dart-objetivos-do-projeto"> Objetivos do Projeto</a>  • 
+    <a href =""> Requisitos do Cliente</a>  • 
+    <a href =""> Sprints</a>  • 
+    <a href =""> Ferramentas Utilizadas</a>  • 
+    <a href =""> Cronograma </a>  • 
+    <a href =""> Mapa </a>  • 
+    <a href =""> Backlog </a>  • 
+</p> 
+
 <h3> :dart: Objetivos do Projeto</h3>
 <p>Coleta e processamento de contas de energia, água e gás para diversas empresas dos setores do atacado e varejo. Cada conta coletada precisa ter todos os seus campos digitados e salvos  em  banco  de  dados  para  eventuais  consultas  e  análises  técnicas/financeiras  que  podem trazer ao cliente oportunidades de redução de custos e alteração de contratos.Cada unidade do cliente pode possuir vários contratos (água, energia ou gás), cada contrato pode possuir uma ou mais contas (faturas de água, energia ou gás) por mês.Todos esses contratos estão ligados a uma concessionária de abastecimento.É importante observar que a interface de digitação (cadastro) das contas, deve possuir um UX que facilite a operação de visualização da conta em PDF para digitação dos campos da conta, com uso de atalhos no teclado e navegação via teclas.</p>
 <hr>
@@ -23,16 +34,6 @@
 </ul>
 <hr>
 
-<p align="center">
-    <a href ="https://github.com/UniversalDevs/Projeto_API_TecSus/blob/main/README.md#globe_with_meridians-equipe-de-desenvolvedores"> Equipe </a>  •
-    <a href ="https://github.com/FelipeASousa/Felipe/blob/main/README.md#-dart-objetivos-do-projeto"> Objetivos do Projeto</a>  • 
-    <a href =""> Requisitos do Cliente</a>  • 
-    <a href =""> Sprints</a>  • 
-    <a href =""> Ferramentas Utilizadas</a>  • 
-    <a href =""> Cronograma </a>  • 
-    <a href =""> Mapa </a>  • 
-    <a href =""> Backlog </a>  • 
-</p> 
 
 <h3>:arrows_counterclockwise: Sprints</h3>
 <p>:white_check_mark: Kick-off do Projeto - 16/08 à 22/08</p>
