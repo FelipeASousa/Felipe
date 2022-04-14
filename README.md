@@ -5,7 +5,7 @@
 <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/LogoUniversalDevs.jpg" width="400" height="250" align="center"/>
 </p>  
 
-<p align="center">TecSUS</p>
+<h2 align="center">TecSUS</h2>
 <hr>
 
 <p align="center">
