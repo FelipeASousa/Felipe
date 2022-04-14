@@ -7,6 +7,9 @@
 
 <h2 align="center">TecSUS</h2>
 <hr>
+<h1>Objetivo do Projeto</h1>
+<p></p>
+<hr>
 
 <p align="center">
     <a href ="https://github.com/UniversalDevs/Projeto_API_TecSus/blob/main/README.md#globe_with_meridians-equipe-de-desenvolvedores"> Equipe </a>  •
