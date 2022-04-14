@@ -10,6 +10,18 @@
 <h3> :dart: Objetivos do Projeto</h3>
 <p>Coleta e processamento de contas de energia, água e gás para diversas empresas dos setores do atacado e varejo. Cada conta coletada precisa ter todos os seus campos digitados e salvos  em  banco  de  dados  para  eventuais  consultas  e  análises  técnicas/financeiras  que  podem trazer ao cliente oportunidades de redução de custos e alteração de contratos.Cada unidade do cliente pode possuir vários contratos (água, energia ou gás), cada contrato pode possuir uma ou mais contas (faturas de água, energia ou gás) por mês.Todos esses contratos estão ligados a uma concessionária de abastecimento.É importante observar que a interface de digitação (cadastro) das contas, deve possuir um UX que facilite a operação de visualização da conta em PDF para digitação dos campos da conta, com uso de atalhos no teclado e navegação via teclas.</p>
 <hr>
+<h3> :pushpin: Requisitos do Cliente</h3>
+<ul>
+    <li>Cadastros de Unidades, Concessionárias, Contratos</li>
+    <li>Cadastro do usuário e seus perfis (administrador, gestor e digitador)</li>
+    <li>Cadastro (digitação) da conta de água, energia e gás</li>
+    <li>Registro de log de operações (cadastro e deleção)</li>
+    <li>Relatório de consumo total de água mensal, anual e média</li>
+    <li>Relatório de consumo total de energia mensal, anual e média</li>
+    <li>Relatório de consumo total de gás mensal, anual e média</li>
+    <li>Geração de alertas de consumo acima da média (a média pode ser definida no cadastro do contrato)</li>
+</ul>
+<hr>
 
 <p align="center">
     <a href ="https://github.com/UniversalDevs/Projeto_API_TecSus/blob/main/README.md#globe_with_meridians-equipe-de-desenvolvedores"> Equipe </a>  •
