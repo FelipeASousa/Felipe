@@ -33,6 +33,27 @@
     <a href =""> Mapa </a>  • 
     <a href =""> Backlog </a>  • 
 </p> 
+
+<h3>:arrows_counterclockwise: Sprints</h3>
+<p>:white_check_mark: Kick-off do Projeto - 16/08 à 22/08</p>
+<p>:white_check_mark:<a href="https://github.com/gbrramos/API_ADS_2021_2/tree/main/Sprint1"> Sprint 1 </a>- 30/08 à 19/09</p>
+<p>:white_check_mark:<a href="https://github.com/gbrramos/API_ADS_2021_2/tree/main/Sprint2"> Sprint 2 </a> - 20/09 à 10/10</p>
+<p>:white_check_mark:<a href="https://github.com/gbrramos/API_ADS_2021_2/tree/main/Sprint3"> Sprint 3 </a> - 18/10 à 07/11</p>
+<p>:white_check_mark:<a href="https://github.com/gbrramos/API_ADS_2021_2/tree/main/Sprint4"> Sprint 4 </a> - 08/11 à 28/11</p>
+<hr>
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h2>:globe_with_meridians: Equipe de Desenvolvedores</h2>
   <table align="left">
     <thead>
