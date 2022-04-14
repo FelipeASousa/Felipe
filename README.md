@@ -12,14 +12,14 @@
 <hr>
 <h3> :pushpin: Requisitos do Cliente</h3>
 <ul>
-    <li>Cadastros de Unidades, Concessionárias, Contratos</li>
-    <li>Cadastro do usuário e seus perfis (administrador, gestor e digitador)</li>
-    <li>Cadastro (digitação) da conta de água, energia e gás</li>
-    <li>Registro de log de operações (cadastro e deleção)</li>
-    <li>Relatório de consumo total de água mensal, anual e média</li>
-    <li>Relatório de consumo total de energia mensal, anual e média</li>
-    <li>Relatório de consumo total de gás mensal, anual e média</li>
-    <li>Geração de alertas de consumo acima da média (a média pode ser definida no cadastro do contrato)</li>
+    <li>Cadastros de Unidades, Concessionárias, Contratos;</li>
+    <li>Cadastro do usuário e seus perfis (administrador, gestor e digitador);</li>
+    <li>Cadastro (digitação) da conta de água, energia e gás;</li>
+    <li>Registro de log de operações (cadastro e deleção);</li>
+    <li>Relatório de consumo total de água mensal, anual e média;</li>
+    <li>Relatório de consumo total de energia mensal, anual e média;</li>
+    <li>Relatório de consumo total de gás mensal, anual e média;</li>
+    <li>Geração de alertas de consumo acima da média (a média pode ser definida no cadastro do contrato).</li>
 </ul>
 <hr>
 
