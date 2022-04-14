@@ -80,7 +80,7 @@
         </td>
         <td>Desenvolvedor</td>
         <td><a href="https://github.com/Andre-lsf"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px"></a></td>
-        <td><a href=""><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px"/></a></td>
+        <td><a href="https://www.linkedin.com/in/andre-fagundes-63447818b/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px"/></a></td>
      </tr>
       <tr>
       <td>Daniela dos Santos Meirelles</td>
@@ -98,7 +98,7 @@
         </td>
         <td>Scrum Master</td>
         <td><a href="https://github.com/EduardoPereiraCarvalho"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px"></a></td>
-        <td><a href=""><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px"/></a></td>
+        <td><a href="https://www.linkedin.com/in/eduardo-carvalho-0a1411213/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px"/></a></td>
      </tr>
      <tr>
      <tr>
