@@ -1,3 +1,10 @@
+<h1 align="center">Aprendizagem pro Projetos Integrados</h1>
+
+<h3 align="center">Projeto desenvolvido por:</h3>
+<p align="center">
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/LogoUniversalDevs.jpg" width="400" height="250" align="center"/>
+</p>  
+
 # TecSus
 <hr>
 
