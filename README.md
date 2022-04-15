@@ -46,11 +46,11 @@
 <img src=""/>
 <hr>
 
-<h3>:wrench: Atividades Por Sprint</h3>
+<h3>:arrows_counterclockwise: Atividades Por Sprint</h3>
 <img src=""/>
 <hr>
 
-<h3>:wrench: Product Backlog</h3>
+<h3>:memo: Product Backlog</h3>
 <img src=""/>
 <hr>
 
