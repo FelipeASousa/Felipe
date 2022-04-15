@@ -13,7 +13,7 @@
     <a href =""> Requisitos do Cliente</a>  • 
     <a href =""> Sprints</a>  • 
     <a href =""> Ferramentas Utilizadas</a>  • 
-    <a href =""> Cronograma </a>  • 
+    <a href =""> Atividades Por Sprint </a>  • 
     <a href =""> Mapa </a>  • 
     <a href =""> Backlog </a>  • 
 </p> 
@@ -46,9 +46,13 @@
 <img src=""/>
 <hr>
 
+<h3>:wrench: Atividades Por Sprint</h3>
+<img src=""/>
+<hr>
 
-
-
+<h3>:wrench: Product Backlog</h3>
+<img src=""/>
+<hr>
 
 
 
