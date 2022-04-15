@@ -11,6 +11,7 @@
     <a href ="https://github.com/UniversalDevs/Projeto_API_TecSus/blob/main/README.md#globe_with_meridians-equipe-de-desenvolvedores"> Equipe </a>  •
     <a href ="https://github.com/FelipeASousa/Felipe/blob/main/README.md#-dart-objetivos-do-projeto"> Objetivos do Projeto</a>  • 
     <a href =""> Requisitos do Cliente</a>  • 
+    <a href =""> Requisitos Não Funcionais</a>  • 
     <a href =""> Sprints</a>  • 
     <a href =""> Ferramentas Utilizadas</a>  • 
     <a href =""> Atividades Por Sprint </a>  • 
@@ -34,7 +35,13 @@
 </ul>
 <hr>
 
-
+<h3> :pushpin: Requisitos Não Funcionais</h3>
+<ul>
+    <li>Prezar pelo UXda tela de digitação das contas;</li>
+    <li>Incluir atalhos no teclado;</li>
+    <li>Permitir navegação entre campos por TAB ou seta;</li>
+</ul>
+<hr>
 <h3>:arrows_counterclockwise: Sprints</h3>
 <p>:white_check_mark: Kick-off do Projeto - 16/08 à 22/08</p>
 <p>:white_check_mark:<a href=""> Sprint 1 </a>- 25/03 à 14/04</p>
